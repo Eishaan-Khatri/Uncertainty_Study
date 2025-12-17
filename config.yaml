@@ -1,0 +1,3 @@
+# Global Project Configuration
+SEED: 42
+EPOCHS: 50
